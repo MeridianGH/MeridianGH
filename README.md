@@ -32,5 +32,4 @@
 
 ### Stats
 ![MeridianGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeridianGH&hide=contribs&theme=github_dark) \
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeridianGH&theme=github_dark) \
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeridianGH&repo=suitbot&theme=github_dark)](https://github.com/MeridianGH/suitbot) \
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeridianGH&theme=github_dark) 

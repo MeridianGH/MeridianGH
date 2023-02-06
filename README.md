@@ -11,7 +11,7 @@
 
 # About me
 
-![GitHub followers](https://img.shields.io/github/followers/MeridianGH?color=ffffff&labelColor=212121&logo=GitHub&logoColor=ffffff&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/MeridianGH?color=ffffff&labelColor=212121&logo=GitHub&logoColor=ffffff&style=for-the-badge)](https://github.com/MeridianGH?tab=followers)
 
 ### Languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>

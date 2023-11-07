@@ -5,7 +5,7 @@
 <h3 align="center">
   Hi, I'm Meridian.<br><br>
   I am a hobby developer & software engineer mainly coding for fun.<br>
-  Working on <a href="https://github.com/MeridianGH/suitbot"><img src="images/suitbot.png" height="16"> SuitBot</a>, I'm currently learning multiple skills such as<br>
+  Working on <a href="https://github.com/MeridianGH/kalliope"><img src="images/kalliope.png" height="16"> Kalliope</a>, I'm currently learning multiple skills such as<br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="16"> JavaScript, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" height="16"> discord.js, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="16"> Back- and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="16"> Front-End development.<br>
 </h3>
 

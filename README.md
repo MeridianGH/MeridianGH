@@ -106,7 +106,9 @@
 
 ## Contact
 
-<img src="https://discord.c99.nl/widget/theme-1/360817252158930954.png"/>
+<a href="https://discord.com">
+  <img src="https://discord.c99.nl/widget/theme-1/360817252158930954.png"/>
+</a>
 <br>
 <a href="https://www.linkedin.com/in/lukas-romacker/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="80px"/>
